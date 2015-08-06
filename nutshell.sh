@@ -16,7 +16,7 @@ else
 fi
 
 if [ -n "$2" ]; then
-	FN=$2
+	OFN=$2
 else
 	echo "not a valid output name, using $OFN instead"
 fi
