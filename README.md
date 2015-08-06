@@ -8,6 +8,6 @@ Written using the guidance of [this site](http://wiki.panotools.org/Panorama_scr
 
 Be sure to have exactly four png files in the directory of the bash script.
 
-  ./nutshell.sh myfilename.pto myOutputNameWithNoExtension
+    ./nutshell.sh myfilename.pto myOutputNameWithNoExtension
 
 Arguments are not required.
